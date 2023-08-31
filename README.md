@@ -1,6 +1,6 @@
 # Welcome to the TeamSnap Android Candidate Practical! 
 
-Your task is to implement `TeamListActivity`. We've provided some classes that you are free to utilize as needed, 
+Your task is to implement `TeamListActivity` using MVVM + Jetpack Compose. We've provided some classes that you are free to utilize as needed, 
 but much of the implementation is up to you. You will find `TODO`s throughout the codebase to help guide you along. We expect you
 to spend somewhere around 2-4 hours on this.
 
@@ -17,6 +17,7 @@ things like team name, location, and member count are probably a good idea.
 
 ### Some key things we're looking for
 * Understanding of MVVM and ability to utilize `ViewModel` and `LiveData` effectively
+* Ability to work with Jetpack Compose
 * Ability to fetch a list of teams from a remote endpoint and parse the Collection+JSON response
 * Ability to cache fetched data and utilize said cache effectively
 * Ability to work with coroutines 
